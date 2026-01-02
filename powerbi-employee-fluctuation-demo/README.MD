@@ -181,7 +181,6 @@ This project is intended as:
 ---
 
 ## Author
-**[Your Name]**  
-Business / HR Data Analytics  
-🔗 LinkedIn: *add your link here*
+**Matej Frolik**  
+Medior Data/IT Analyst
 
